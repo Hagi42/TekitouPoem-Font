@@ -1,6 +1,22 @@
-# TekitouPoem-Font
-Handwritten Japanese font, SIL-Open Font License1.1
+# TekitouPoem-Font  
+Handwritten Japanese font — [SIL Open Font License 1.1](https://openfontlicense.org/)  
 
+![Sample Image](docs/Image1.png)
+
+TekitouPoem is a handwritten Japanese font featuring approximately 16,100 characters.  
+It is based on the penmanship of a single person, naturally written with a pen.  
+It includes Latin letters, numbers, hiragana, katakana, kanji (JIS Levels 1 to 4), and various symbols.  
+The font comes in four weights: Regular, Semi-Bold, Bold, and Extra-Bold. Heavier styles may lose some fine details.
+
+![Sample Image](docs/Image2.png)  
+![Sample Image](docs/Image3.png)
+
+The font is occasionally updated to improve its quality. Feedback is welcome if you find any typos or unusual characters.
+
+This font was created by **Hagi42** and is distributed under the independent creator circle name [Cockatrice Digital](https://cktrc.com/).
+
+
+# 適当ポエムの説明
 『適当ポエム』は手書きの日本語フリーフォントです。  
 英数字、ひらがな、カタカナ、JIS第1～4水準漢字、その他記号など**16100字**を収録しています。  
 文字の丁寧さなどに少しばらつきがあります。
